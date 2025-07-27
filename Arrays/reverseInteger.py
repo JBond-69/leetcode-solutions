@@ -1,4 +1,5 @@
-
+# Runtime: 35 ms, faster than 81% of Python3 submissions
+# Memory Usage: 17 MB, beats 83% of Python3 submissions
 
 class Solution:
     def reverse(self, x: int) -> int:
