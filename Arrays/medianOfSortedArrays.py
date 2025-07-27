@@ -1,4 +1,5 @@
-
+# Runtime: 3 ms, faster than 51% of Python3 submissions
+# Memory Usage: 18 MB, beats 40% of Python3 submissions
 
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
