@@ -1,3 +1,6 @@
+# Runtime: 17 ms, faster than 63% of Python3 submissions
+# Memory Usage: 18 MB, beats 13% of Python3 submissions
+
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         len_of_longest_substring = 0 #final required result
